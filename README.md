@@ -1,5 +1,6 @@
 # PNG2SVG
 > Simple web app page for converting small dot graphics PNG to SVG.  
+[![License](https://img.shields.io/github/license/presentkim/png2svg?style=flat)](https://github.com/PresentKim/png2svg/blob/master/LICENSE)  
   
 Project site is available at https://pre.kim/png2svg  
   
